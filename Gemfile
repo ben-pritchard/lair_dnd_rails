@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'bcrypt-ruby', '~> 3.1.5', require: "bcrypt"
 gem 'bootstrap-sass', '~> 3.3.4'
 gem 'devise'
+gem "paperclip", "~> 4.2"
 
 
 group :development do
